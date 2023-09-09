@@ -119,19 +119,19 @@
 
 #### 1.2.2.4.	Lean UX Canvas
 
-![visual studio code logo](Imagen1.png) 
+![visual studio code logo](assets/Imagen1.png) 
 
 ## 1.3.	Segmento Objetivo
 
 ##### De acuerdo con el INEI (2020), en el Perú se encuentran más de 3.3 millones de personas con alguna discapacidad, de los cuales el 31.2% están ubicados en la capital del país, lo que convierte a Lima en el departamento con más personas que tienen alguna limitación física o mental en nuestra nación.  Por eso, se escogió a Lima Metropolitana como la provincia en la cual nuestra aplicación comenzará a funcionar. De la misma manera, los adultos mayores son los que forman la mayor parte de este grupo de individuos con alguna discapacidad y, además, ellos necesitan de ayuda de terceros en su día a día, ya que no pueden valerse por sí mismos. Igualmente, el último reporte del INEI también menciona que el 52.2% del sector de personas limitadas se encontraron o se encuentran con la necesidad de acudir a centros de salud, tales como el MINSA, Essalud, entre otros. Esto evidencia que hay un menester de médicos o enfermeros para apoyar al cuidado de personas con discapacidad y no es posible que solo uno de los familiares se encargue de estos, pues en palabras de Pérez (2016), el cuidado informal de personas limitadas genera problemas de salud y alteraciones emocionales en los cuidadores principales y también en los que los rodean. En otras palabras, todos los miembros de una familia son afectados directamente cuando uno de ellos presenta algún tipo de limitación. 
 ##### En el siguiente gráfico se muestra un aproximado del porcentaje de aumento de personas con discapacidad según sexo y edad.
 
-![visual studio code logo](Imagen2.png) 
+![visual studio code logo](assets/Imagen2.png) 
 
 ##### Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un aumento en el porcentaje de adultos mayores, lo que conlleva a que crezca la demanda de enfermeros o médicos para su supervisión también se elevará en los próximos años. Además, en los mismos datos se evidencia que disminuirá la población de entre 20 a 45 años, lo que implica que los cuidados informales de personas discapacitadas se reducirán de igual manera. Por todo esto, llegamos a la conclusión de que los segmentos objetivos de nuestra aplicación son los siguientes.
 * ##### Personas mayores que requieran supervisión o Personas discapacitadas o con alguna otra dificultad para movilizarse
-![visual studio code logo](Imagen3.png) 
-![visual studio code logo](Imagen4.png) 
+![visual studio code logo](assets/Imagen3.png) 
+![visual studio code logo](assets/Imagen4.png) 
 
 * ##### Profesionales de la salud
-![visual studio code logo](Imagen5.jpg) 
+![visual studio code logo](assets/Imagen5.jpg) 
